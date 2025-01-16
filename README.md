@@ -283,3 +283,14 @@ Runs production builds for React and Next.js, highlighting differences in API ca
 
 
 Encourages viewers to explore further learning opportunities and workshops on Next.js.
+
+![Screenshot_35](https://github.com/user-attachments/assets/c562d62d-c020-40cd-a21c-c7de2858a3c2)
+
+![Screenshot_36](https://github.com/user-attachments/assets/67a15a85-42d2-4da7-aeec-b22b0291ea2f)
+
+![Screenshot_37](https://github.com/user-attachments/assets/a789bf66-ba08-4450-af2b-c2922c819a66)
+![Screenshot_38](https://github.com/user-attachments/assets/30ed6130-e44d-4c52-a203-9de0b0cb7613)
+
+![Screenshot_39](https://github.com/user-attachments/assets/b757b22c-f924-4850-a9ce-4f66e0c5aaa9)
+
+

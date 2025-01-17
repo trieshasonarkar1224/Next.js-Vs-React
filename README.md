@@ -1,7 +1,14 @@
 # Next.js-Vs-React
 
 
+<a href = "https://www.youtube.com/watch?v=JB1aKAoj2o0&t=298s"> Link To Tutorial </a>
+<br>
 
+Date:-16/01/2025 
+<br>
+
+Enlisted below are the things I learnt today. 👇
+<br>
 
  
 *Introduction to the course and what will be covered.
